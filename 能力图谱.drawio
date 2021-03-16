@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T09:02:25.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="o9lRXGQfHeQr5_t6rdqp" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T09:03:27.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="cC_QshKXivy1vIehGz8j" version="14.4.8" type="github">
   <diagram id="UKU3DFRLvGe0n27m7Lsg" name="第 1 页">
     <mxGraphModel dx="691" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,13 +25,13 @@
         <mxCell id="bVLz3vXDeYdqv_zzXwx2-8" value="人才梯队" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bVLz3vXDeYdqv_zzXwx2-9" value="人员招聘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-9" value="人员招聘" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bVLz3vXDeYdqv_zzXwx2-10" value="测试人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-10" value="测试人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bVLz3vXDeYdqv_zzXwx2-12" value="开发人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-12" value="开发人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bVLz3vXDeYdqv_zzXwx2-13" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="bVLz3vXDeYdqv_zzXwx2-15" value="技术负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-16" value="项目预算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-17" value="WBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-18" value="工时估算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
