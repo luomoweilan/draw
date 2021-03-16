@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T09:02:06.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="AMRY_ki3f0qXMmBkwpOD" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T09:02:25.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="o9lRXGQfHeQr5_t6rdqp" version="14.4.8" type="github">
   <diagram id="UKU3DFRLvGe0n27m7Lsg" name="第 1 页">
     <mxGraphModel dx="691" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="bVLz3vXDeYdqv_zzXwx2-14" value="产品经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bVLz3vXDeYdqv_zzXwx2-15" value="技术负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
